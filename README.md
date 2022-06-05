@@ -1,0 +1,1 @@
+# fsl-obsidian-anki-sync
